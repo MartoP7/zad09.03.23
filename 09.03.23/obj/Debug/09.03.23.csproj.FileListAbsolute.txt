@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\09.03.23\09.03.23\bin\Debug\09.03.23.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\09.03.23\09.03.23\bin\Debug\09.03.23.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\09.03.23\09.03.23\bin\Debug\09.03.23.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\09.03.23\09.03.23\obj\Debug\09.03.23.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\09.03.23\09.03.23\obj\Debug\09.03.23.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\09.03.23\09.03.23\obj\Debug\09.03.23.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\09.03.23\09.03.23\obj\Debug\09.03.23.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\09.03.23\09.03.23\obj\Debug\09.03.23.pdb
